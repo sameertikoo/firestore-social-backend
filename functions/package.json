@@ -22,14 +22,14 @@
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "firebase-admin": "^5.13.0",
-    "firebase-functions": "^1.1.0",
+    "firebase-functions": "^2.1.0",
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
     "nodemailer": "^4.6.7",
     "plivo": "^4.0.1",
     "request": "^2.87.0",
-    "tslint": "^5.11.0",
-    "snyk": "^1.89.0"
+    "snyk": "^1.89.0",
+    "tslint": "^5.11.0"
   },
   "private": true,
   "devDependencies": {
